@@ -1,4 +1,4 @@
-# Boston Assignment Task
+# Dinero Assignment
 
 ## To run the project properly, make sure you have Apache & MySQL running, so for this you can install XAMPP & then start Apache & MySQL servers
 
