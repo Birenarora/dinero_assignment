@@ -9,7 +9,9 @@
 3) Copy all the contents of **.env.example to .env**
 4) Run the migrations, in the command line type:<br>
 **php artisan migrate**
-3) Running the project, in command line type:<br>
+5) Seed the database with dummy records
+**php artisan db:seed**
+6) Running the project, in command line type:<br>
 **php artisan serve**
 
 Below is the localhost URL of your project:
